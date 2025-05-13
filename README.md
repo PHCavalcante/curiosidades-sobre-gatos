@@ -1,4 +1,4 @@
-# Curiosidades sobre gatos
+# Curiosidades sobre gatos 🐱
 
 ## Descrição do Projeto
 Este projeto tem como objetivo implementar uma aplicação que utiliza um sistema de navegação, utilizando tecnologias modernas e boas práticas de desenvolvimento. Ele foi desenvolvido como parte de uma atividade prática da matéria de Computação para Dispositivos Móveis 5º período de Sistemas da Informação.
@@ -47,9 +47,9 @@ curiosidades-sobre-gatos/
 
 ## Screenshots
 
-![Tela principal](screenshots/home.png)
-![Fato descoberto](screenshots/home-fact.png)
-![Tela de galeria](screenshots/gallery.png)
+<img src="screenshots/home.png" alt="Tela Principal" width="350">
+<img src="screenshots/home-fact.png" alt="Fato descoberto" width="350">
+<img src="screenshots/gallery.png" alt="Tela galeria" width="350">
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
